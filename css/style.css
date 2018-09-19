@@ -1,0 +1,7 @@
+html, body, header, #home {
+	height: 100%;
+}
+#home {
+	background:url(../img/bg-header.jpg);
+	background-size: cover;
+}
